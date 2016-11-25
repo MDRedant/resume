@@ -249,7 +249,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 }
 /* Photo */
-.photo{
+.photo{image: url('../images/profile.gif');}
   float: left;
   height: 200px;
   width: 200px;
